@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "https://works.lifehacker.tw"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ],
+  "defaultCommentOrder": "oldest"
+}
