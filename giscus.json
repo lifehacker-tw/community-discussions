@@ -1,6 +1,8 @@
 {
   "origins": [
-    "https://works.lifehacker.tw"
+    "https://works.lifehacker.tw",
+    "https://ai.lifehacker.tw",
+    "https://works-preview.lifehacker.tw"
   ],
   "originsRegex": [
     "http://localhost:[0-9]+"
